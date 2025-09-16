@@ -1,24 +1,23 @@
-# Exercícios de Python – Curso em Vídeo
+# Python Exercises – Video Course
 
-Este repositório contém minhas resoluções dos exercícios do **Curso de Python (Gustavo Guanabara)**, organizados por módulos.
-
----
-
-## Estrutura
-- **Módulo 1** → Exercícios 01 a 35  
-- **Módulo 2** → Exercícios 36 a 71  
-- **Módulo 3** → Exercícios 72 a 115  
+This repository contains my solutions to the exercises from ** [Gustavo Guanabara's](https://github.com/gustavoguanabara) Python Course**, organized by modules.
 
 ---
 
-## Objetivo
+## Structure
+- **Module 1** → Exercises 01 a 35  
+- **Module 2** → Exercises 36 a 71  
+- **Module 3** → Exercises 72 a 115  
 
-* Praticar lógica de programação e fundamentos de Python.
+---
 
-* Manter consistência e registrar minha evolução.
+## Objective
+
+* Practice programming logic and Python fundamentals.
+* Maintain consistency and track my progress.
   
 ---
 
-## Como executar
-Clique aqui :
-[exercicios resolvidos](https://github.com/larioliveiram/Curso-Python-Gustavo-Guanabara/tree/main)
+## How to run
+Click here:
+[solved exercises](https://github.com/larioliveiram/Curso-Python-Gustavo-Guanabara/tree/main)
