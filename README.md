@@ -20,6 +20,5 @@ Este repositório contém minhas resoluções dos exercícios do **Curso de Pyth
 ---
 
 ## Como executar
-Clone este repositório:
-```bash
-https://github.com/larioliveiram/python-exercicios.git
+Clique aqui :
+[exercicios resolvidos](https://github.com/larioliveiram/Curso-Python-Gustavo-Guanabara/tree/main)
