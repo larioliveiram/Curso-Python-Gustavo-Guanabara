@@ -1,6 +1,6 @@
 # Create a program that reads several numbers and stores them in a list. After that, create two additional lists: one containing only the even numbers and the other containing only the odd numbers entered. At the end, display the contents of all three lists.
 
-lista = []
+lista = pares = impares = []
 pergunta = ''
 while True:
     lista.append(int(input('Digite um valor: ')))
@@ -9,6 +9,12 @@ while True:
         break
     if pergunta not in 'SN':
         pergunta = str(input('Não entendi. Sim ou não?'))
+for i, v in enumerate(lista): #indice e valor 
+    if v % 2 == 0:
+        pares.append(v)
+    elif v % 2 == 1:
+        impares.append(v)
 decrescente = sorted(lista,reverse=True)
 crescente = sorted(lista)
 print(f'A lista é {lista} \n decrescente fica {decrescente} e crescente fica {crescente}')
+print(f' Pares são {pares} e impares {impares}')
